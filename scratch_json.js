@@ -37,3 +37,5 @@ class JsonExtension {
         }
     }
 }
+
+Scratch.extensions.register(new JsonExtension());
